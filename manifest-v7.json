@@ -1,0 +1,1 @@
+{"name":"Fruit Machine","short_name":"Fruit Machine","start_url":"./","scope":"./","display":"standalone","background_color":"#141916","theme_color":"#141916","icons":[{"src":"fruit-icon-v7-192.png","sizes":"192x192","type":"image/png","purpose":"any"},{"src":"fruit-icon-v7-512.png","sizes":"512x512","type":"image/png","purpose":"any"}]}
